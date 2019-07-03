@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvalService", "EvalService\EvalService.csproj", "{4866448B-47FF-4E01-B374-759EB75C9AAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHost", "ConsoleHost\ConsoleHost.csproj", "{13E482B2-81B6-4A8D-AC94-29026554A248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4866448B-47FF-4E01-B374-759EB75C9AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4866448B-47FF-4E01-B374-759EB75C9AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4866448B-47FF-4E01-B374-759EB75C9AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E482B2-81B6-4A8D-AC94-29026554A248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E482B2-81B6-4A8D-AC94-29026554A248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E482B2-81B6-4A8D-AC94-29026554A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E482B2-81B6-4A8D-AC94-29026554A248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
